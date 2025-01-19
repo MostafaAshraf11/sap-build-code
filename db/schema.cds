@@ -6,6 +6,6 @@ entity Books {
     author      : String;
     publicationDate : Date;
 
-
+//connection
     
 }
